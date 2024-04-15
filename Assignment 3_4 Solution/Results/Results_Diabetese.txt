@@ -1,0 +1,42 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Report on the results 
+'''
+Based on the results:
+
+The average mean from the bootstrap samples is approximately 69.21, while the population mean is 69.11. The difference between these two values is relatively small, indicating that the bootstrap samples provide a good estimate of the population mean.
+
+The average standard deviation from the bootstrap samples is approximately 19.08, while the population standard deviation is 19.34. Again, the difference between these two values is relatively small,
+suggesting that the bootstrap samples accurately estimate the population standard deviation.
+
+The average percentiles from the bootstrap samples are as follows:
+
+0th percentile: 0.06
+25th percentile: 62.97
+50th percentile (median): 71.48
+75th percentile: 79.59
+100th percentile: 110.87
+These percentiles provide insight into the distribution of blood pressure values in the bootstrap samples. The median value (50th percentile) is close to the population median of 72,
+indicating that the bootstrap samples capture the central tendency of the population data. The other percentiles also show similar trends to the population percentiles.
+
+Overall, the statistics from the bootstrap samples closely resemble those from the population data, suggesting that the bootstrap sampling method effectively captures the characteristics of the population distribution.
+'''
+
+
+
+
+
+
+
+
